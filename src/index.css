@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: white;
+}
+
+span{
+    color: blue;
+}
+
+#wa:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
